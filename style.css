@@ -43,5 +43,22 @@ h1{
     box-shadow: 5px 5px 15px;
     border-radius: 2px;
     background-color: darkturquoise;
-
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 50%;
+}
+.build-text {
+    text-align: center;
+}
+footer h1{
+    text-align: center;
+}
+footer p{
+    text-align: center;
 }
